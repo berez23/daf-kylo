@@ -9,7 +9,7 @@
     "dafKylo": "./index.js"
   },
   "dependencies": {
-    "adm-zip": "^0.4.7",
+    "adm-zip": "^0.5.2",
     "async": "^2.4.0",
     "commander": "^2.9.0",
     "config": "^1.26.1",
